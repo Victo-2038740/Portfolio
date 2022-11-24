@@ -12239,7 +12239,7 @@ body.light-theme .contact-section .overlay {
     #fff 55%,
     #fff 200%
   );
-  background-image: radial-gradient(
+   background-image: radial-gradient(
     200% 130% at 48% 65%,
     rgba(255, 255, 255, 0.5),
     rgba(255, 255, 255, 0.6),
