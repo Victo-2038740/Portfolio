@@ -11866,7 +11866,8 @@ a:hover {
 .footer .links a {
   display: inline-block;
   margin: 0 15px;
-  color: #fff;
+  font-weight: bold;
+  color: black;
   opacity: 1;
   font-size: 14px;
 }
